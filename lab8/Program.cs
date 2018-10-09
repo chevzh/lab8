@@ -9,9 +9,7 @@ using System.Xml.Serialization;
 namespace lab8
 {
     class Program
-    {
-
-      
+    {     
 
         static void Main(string[] args)
         {
